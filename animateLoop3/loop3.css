@@ -1,0 +1,16 @@
+#canvas1 {
+    border: 3px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    width: 1300px;
+    background-color: rgb(16, 27, 4);
+    
+}
+body {
+    background-color: black;
+    text-align: center;
+    color: orange;
+}
