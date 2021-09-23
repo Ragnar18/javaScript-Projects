@@ -1,0 +1,16 @@
+#canvas1 {
+    border: 3px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 448px;
+    width: 512px;
+    background-color: blueviolet;
+    background-image: url('npcBackGround.png');
+}
+body {
+    background-color: black;
+    text-align: center;
+    color: orange;
+}
